@@ -1,4 +1,4 @@
-# 🍼 Alimentação na Gravidez — com Dra. Gema
+# 🍼 Alimentação na Gravidez — com Dra. Luma
 
 **Uma IA gentil para ajudar gestantes a saberem o que podem (ou não) comer.**  
 Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
