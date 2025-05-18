@@ -11,7 +11,7 @@ from PIL import Image
 
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
-    logo = Image.open("assets/logo.png")
+    logo = Image.open("assets/Logo.png")
     st.image(logo, width=200)
 
 load_dotenv()
