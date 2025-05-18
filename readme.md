@@ -24,15 +24,14 @@ A linguagem é sempre direta, acolhedora e pensada para o momento sensível da g
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/seuusuario/alimentacao-na-gravidez.git
+git clone https://github.com/flimaz/LumaGestante.git
 cd alimentacao-na-gravidez
 pip install -r requirements.txt
 
 ## 🖼️ Visual do aplicativo
 
-Veja abaixo como o app se comporta tanto no celular quanto no desktop:
+#### 🏠 Tela Inicial (Desktop)
+![Tela Desktop](https://github.com/flimaz/LumaGestante/blob/main/Img/TelaInicial_Desktop.png?raw=true)
 
-<div align="center">
-  <img src="FotosApp/AnaliseApp.png" alt="Visual do App no Celular" width="250"/>
-  <img src="FotosApp/AnaliseDesktop.png" alt="Visual do App no Desktop" width="500"/>
-</div>
+#### 📬 Avisos de Retirada (Mobile)
+![Tela Mobile](https://github.com/flimaz/LumaGestante/blob/main/Img/AvisosRetirada_Mobile.png?raw=true)
