@@ -1,0 +1,35 @@
+# Ambiente virtual
+venv/
+.env
+.env.*
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Arquivos de log ou saída
+*.log
+
+# Imagens ou arquivos gerados localmente
+assets/*.png
+!assets/icon.png  # manter o ícone principal
+
+# PyCharm
+.idea/
