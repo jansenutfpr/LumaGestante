@@ -31,8 +31,8 @@ pip install -r requirements.txt
 
 ## 🖼️ Visual do aplicativo
 
-#### 🏠 Tela Inicial (Desktop)
-![Tela Desktop](https://github.com/flimaz/LumaGestante/blob/main/Img/TelaInicial_Desktop.png?raw=true)
+### Celular
+![App no celular](FotosApp/AnaliseApp.png)
 
-#### 📬 Avisos de Retirada (Mobile)
-![Tela Mobile](https://github.com/flimaz/LumaGestante/blob/main/Img/AvisosRetirada_Mobile.png?raw=true)
+### Desktop
+![App no desktop](FotosApp/AnaliseDesktop.png)
