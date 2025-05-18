@@ -3,6 +3,8 @@
 **Uma IA gentil para ajudar gestantes a saberem o que podem (ou não) comer.**  
 Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 
+A ideia foi desenvolvida como parte do desafio proposto durante a Imersão de IA com o Google Gemini, promovida pela Alura em parceria com o Google durante a edição de 2025.
+
 ---
 
 ## 👶 Sobre o projeto
@@ -25,7 +27,7 @@ Clone o repositório e instale as dependências:
 
 ```bash
 git clone https://github.com/flimaz/LumaGestante.git
-cd alimentacao-na-gravidez
+cd LumaGestante
 pip install -r requirements.txt
 ```
 
@@ -36,3 +38,15 @@ pip install -r requirements.txt
 
 ### Desktop
 ![App no desktop](FotosApp/AnaliseDesktop.png)
+
+---
+
+## 🙌 Contribuições
+
+Contribuições são bem-vindas! Você pode abrir uma issue ou enviar um pull request com melhorias, correções ou novas ideias.
+
+---
+
+## ❤️ Agradecimentos
+
+Projeto idealizado com amor para todas as mamães que possuem dúvidas sobre o que comer.
