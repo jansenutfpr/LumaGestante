@@ -1,7 +1,5 @@
 # 🍼 Alimentação na Gravidez — com Dra. Gema
 
-![Logo do app](assets/icon.png)
-
 **Uma IA gentil para ajudar gestantes a saberem o que podem (ou não) comer.**  
 Inspirado na minha esposa, que está grávida e vive a dúvida diária: *“Será que posso comer isso?”*
 
