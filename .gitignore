@@ -28,7 +28,6 @@ Thumbs.db
 *.log
 
 # Imagens ou arquivos gerados localmente
-assets/*.png
 !assets/icon.png  # manter o ícone principal
 
 # PyCharm
