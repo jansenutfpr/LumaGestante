@@ -21,6 +21,15 @@ A linguagem é sempre direta, acolhedora e pensada para o momento sensível da g
 
 ---
 
+## 🚀 Teste o App
+
+Acesse o **Luma Gestante** diretamente pelo navegador:
+
+👉 [https://lumagestante.streamlit.app/](https://lumagestante.streamlit.app/)
+
+
+---
+
 ## 🧪 Tecnologias Utilizadas
 
 - **[Streamlit](https://streamlit.io/)** – Framework para criação rápida de interfaces web em Python  

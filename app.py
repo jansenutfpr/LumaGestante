@@ -5,7 +5,7 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 
 # Configuração inicial
-st.set_page_config(page_title="Dra. Lima - Alimentação na Gravidez", layout="centered")
+st.set_page_config(page_title="Dra. Luma - Alimentação na Gravidez", layout="centered")
 
 from PIL import Image
 
