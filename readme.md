@@ -27,6 +27,7 @@ Clone o repositório e instale as dependências:
 git clone https://github.com/flimaz/LumaGestante.git
 cd alimentacao-na-gravidez
 pip install -r requirements.txt
+```
 
 ## 🖼️ Visual do aplicativo
 
