@@ -25,8 +25,10 @@ A linguagem é sempre direta, acolhedora e pensada para o momento sensível da g
 
 Acesse o **Luma Gestante** diretamente pelo navegador:
 
+Via Render
+- 👉 [https://lumagestante.onrender.com/](https://lumagestante.onrender.com/)
+Via StreamLit App
 👉 [https://lumagestante.streamlit.app/](https://lumagestante.streamlit.app/)
-
 
 ---
 
