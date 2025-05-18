@@ -23,8 +23,6 @@ A linguagem é sempre direta, acolhedora e pensada para o momento sensível da g
 
 ## 🧪 Tecnologias Utilizadas
 
-O projeto **Luma Gestante** foi desenvolvido com foco em acessibilidade, leveza e usabilidade, utilizando ferramentas modernas e de fácil manutenção:
-
 - **[Streamlit](https://streamlit.io/)** – Framework para criação rápida de interfaces web em Python  
 - **[Google Gemini API](https://ai.google.dev/)** – Para geração de respostas inteligentes com base nas imagens alimentares enviadas  
 - **[Pillow (PIL)](https://pillow.readthedocs.io/)** – Manipulação e redimensionamento de imagens  
