@@ -11,7 +11,7 @@ A ideia foi desenvolvida como parte do desafio proposto durante a Imersão de IA
 
 Esse aplicativo foi criado com muito carinho para oferecer mais segurança e acolhimento durante a gestação.
 
-Basta enviar uma foto de um **alimento** (ou da **embalagem**) e a **Dra. Gema**, nossa IA nutricionista empática, irá:
+Basta enviar uma foto de um **alimento** (ou da **embalagem**) e a **Dra. Luma**, nossa IA nutricionista empática, irá:
 
 - ✅ Dizer se é indicado ou não na gravidez  
 - 🔥 Estimar as calorias por 100g ou 100ml  
@@ -25,10 +25,8 @@ A linguagem é sempre direta, acolhedora e pensada para o momento sensível da g
 
 Acesse o **Luma Gestante** diretamente pelo navegador:
 
-Via Render
-- 👉 [https://lumagestante.onrender.com/](https://lumagestante.onrender.com/)
-Via StreamLit App
 - 👉 [https://lumagestante.streamlit.app/](https://lumagestante.streamlit.app/)
+- 👉 [https://lumagestante.onrender.com/](https://lumagestante.onrender.com/)
 
 ---
 
